@@ -115,7 +115,7 @@ Apaixonado por inovação, IA e Automação aplicadas estrategicamente a negóci
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USERNAME/SEU-USERNAME/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rodrigothadeu/rodrigothadeu/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
