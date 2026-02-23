@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-thadeu"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SEU-USERNAME&style=for-the-badge&color=1f6feb&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=rodrigothadeu&style=for-the-badge&color=1f6feb&label=VISITORS" />
 </p>
 
 ---
@@ -102,12 +102,12 @@ Apaixonado por inovação, IA e Automação aplicadas estrategicamente a negóci
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SEU-USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rodrigothadeu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigothadeu&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigothadeu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 </p>
 
 ---
