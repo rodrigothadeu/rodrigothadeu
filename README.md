@@ -102,20 +102,20 @@ Apaixonado por inovação, IA e Automação aplicadas estrategicamente a negóci
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rodrigothadeu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigothadeu&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodrigothadeu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=rodrigothadeu&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigothadeu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodrigothadeu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigothadeu/rodrigothadeu/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rodrigothadeu/rodrigothadeu/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" width="100%" />
 </p>
 
 ---
