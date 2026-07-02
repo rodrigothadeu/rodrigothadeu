@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Rodrigo%20Thadeu&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=AI%20Agent%20Developer%20%7C%20Automação%20Inteligente&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Construindo+agentes+de+IA+aut%C3%B4nomos+%F0%9F%A4%96;Automatizando+processos+com+intelig%C3%AAncia+%E2%9A%99%EF%B8%8F;Python+%7C+n8n+%7C+Google+Cloud+%7C+LLMs+%F0%9F%9A%80;De+Salvador+para+o+mundo+%F0%9F%8C%8E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Construindo+agentes+de+IA+aut%C3%B4nomos+%F0%9F%A4%96;Automatizando+processos+com+intelig%C3%AAncia+%E2%9A%99%EF%B8%8F;Python+%7C+n8n+%7C+Google+Cloud+%7C+LLMs+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
